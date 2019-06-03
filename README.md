@@ -1,6 +1,6 @@
 # Bay Area Rapid Transit (BART) Ridership
 
-"BART, short for "Bay Area Rapid Transit", is the transit system severing the San Francisco Bay Area in California. 
+"BART, short for 'Bay Area Rapid Transit', is the transit system severing the San Francisco Bay Area in California. 
 BART operates six routes, 46 stations, and and 112 miles of track. 
 It serves an average weekday ridership of 423,000 people, making it the fifth-busiest rapid transit system in the United States.
 
